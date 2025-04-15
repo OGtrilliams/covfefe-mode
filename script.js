@@ -14,6 +14,11 @@ const longTrumpNames = [
   "Donny DollHands",
   "Squirrel Top",
   "Dick Tater",
+  "King Con",
+  "Diaper Don",
+  "Agolf Twitler",
+  "Commander in Cheat",
+  "Lyin' King",
 ];
 
 const shortTrumpNames = [
@@ -23,11 +28,16 @@ const shortTrumpNames = [
   "Whimpy",
   "McManiac",
   "Dollhands",
+  "Dolt45",
+  "Felon47",
+  "Toadstool",
+  "Trumplethinskin",
+  "Cheat-O",
 ];
 
 const muskNames = {
-  full: ["Lex Loser", "Space Karen", "Apartheid Clyde", "Muskrat"],
-  short: ["Cocaine Boer", "Melon", "Ego", "X Æ A-12's Dad"],
+  full: ["Lex Loser", "Space Karen", "Apartheid Clyde", "Cocaine Boer"],
+  short: ["Muskrat", "Melon", "Ego", "X Æ A-12's Dad"],
 };
 
 // Recursive text walker
