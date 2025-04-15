@@ -1,6 +1,7 @@
 # Covfefe Mode
 
-![logo](covfefe-mode-icon.png)
+<img src="covfefe-mode-icon.png" width="200">
+
 
 ## “Transform every mention of your favorite chaos goblin into a comedy roast. Because if you have to read the news, it might as well be entertaining.”
 
